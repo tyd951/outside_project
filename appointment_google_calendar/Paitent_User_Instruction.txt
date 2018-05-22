@@ -1,0 +1,16 @@
+Patient User Instruction
+
+Step 1: use the browser enter the doctor office's URL:
+
+Step 2: enter the Name at the Patient's Name bar
+
+Step 3: enter the email address
+
+Step 4: choose the date by clicking the bar under the choose a date; It will display
+	the date that are available.
+
+Step 6: Once the date being selected, User can click the available Times which will show a 
+	list of the available time
+
+Step 7: after selecting the time, User click Make Appointment and will display 
+	"Your appointment has been Scheduled!"
